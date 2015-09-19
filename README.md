@@ -72,4 +72,6 @@ So I thought to push the entire folder
 ####To https://github.com/Sailia/phase-0-gps-1.git
 ####   1efef03..0c6d5c2  master -> master
 
-Done!!!
+*Due to unfortunate events I was not able to pair with someone on this project, therfore there will not be a screenshot of a pair but heres a [Picture of me!](/../phase-0-gps-1/readmeassnmnt.png)
+
+*Done!!!*
